@@ -1,7 +1,6 @@
 <h1 align="center"> <pre>Hi, I'm Abdul Farhath Mohammad 👋 </pre></h1>
 
-
-<h3 >About Me</h3>
+<h3>About Me</h3>
 
 <p>
   👨‍💻 I am a Web Developer skilled in the MERN stack. <br>
@@ -9,11 +8,9 @@
   🔄 Currently in the process of making mistakes, getting errors, and learning from them.
 </p>
 
-
-
 ---
 
-<h3 >Skills</h3>
+<h3>Skills</h3>
 
 <p>
   <!-- Web Development -->
@@ -41,40 +38,35 @@
   </a>
   <br>
 
-<strong>Other Tech:</strong><br>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;"/>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 10px;"/>
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
-</a>
+  <strong>Other Tech:</strong><br>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
 
-<strong>Tools:</strong><br>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" style="margin-right: 10px;"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 10px;"/>
-</a>
-
-
-
-
-
+  <strong>Tools:</strong><br>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
 
 ---
+
 <h3>Connect with Me</h3>
 <p>
   <a href="https://linkedin.com/in/abdulfarhath" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:abdulfarhathmohd@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon_%282013-2020%29.svg" alt="Gmail" height="30" width="40" />
-</a>
-
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon_%282013-2020%29.svg" alt="Gmail" height="30" width="40" />
+  </a>
   <a href="https://www.hackerrank.com/abdulfarhathmohd" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
@@ -82,16 +74,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
-
-
-<!--
----
-<h3 >GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulfarhath&" alt="abdulfarhath" />
-</p>
-
----
--->
-
