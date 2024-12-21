@@ -1,6 +1,5 @@
 <h1 align="center"> <pre>Hi, I'm Abdul Farhath Mohammad 👋 </pre></h1>
 
----
 
 <h3 >About Me</h3>
 
