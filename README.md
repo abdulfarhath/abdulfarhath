@@ -10,7 +10,7 @@
 
 ---
 
-<h3>Skills</h3>
+<h3>Tech Stack</h3>
 
 <p>
   <!-- Web Development -->
