@@ -36,6 +36,10 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40" style="margin-right: 10px;"/>
   </a>
+  <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  
   <br>
 
   <strong>Other Tech:</strong><br>
