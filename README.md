@@ -74,7 +74,7 @@
   <a href="https://www.hackerrank.com/abdulfarhathmohd" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/abdulfarhath" target="_blank">
+<!--   <a href="https://leetcode.com/abdulfarhath" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
